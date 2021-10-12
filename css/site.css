@@ -1,0 +1,32 @@
+body {
+    font-family:'Segoe UI Light', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-wrap: break-word; 
+}
+
+h1 {
+    color: darkblue;
+    font-size: 300%;
+}
+
+h2 {
+    color: darkblue;
+}
+
+p {
+    color: black;
+    text-indent: 20px;
+    font-size: 100%;
+}
+
+.home-text {
+    margin-left: 50px;
+    padding: 50px;
+    /*position: relative;
+    left: 500px;*/
+}
+
+.selfie-container {
+    margin-right: 50px;
+    padding: 50px;
+    float: right;
+}
